@@ -602,7 +602,7 @@ Para proteger minhas informações pessoais
  E minha sessão deve ser encerrada    
     
 
-**Resultado da Execução:**
+## **Resultado da Execução:**
 
  O botão "Logout" redirecionou corretamente para a página de login.    
  A sessão foi encerrada.    
@@ -646,7 +646,7 @@ Tela Login
 
     
 
-**Sugestões de melhorias de UX/UI**
+## **Sugestões de melhorias de UX/UI**
 
 **Funcionalidade: Filtro de produtos**
 
@@ -710,7 +710,7 @@ O carrinho de compras não exibe o subtotal do pedido para o usuário visualizar
 
 **![][image34]**
 
-**Lista de bugs encontrados**
+## **Lista de bugs encontrados**
 
 **CT 5.1: Navegar no menu lateral e Visitar a Página “About”**
 
@@ -729,7 +729,7 @@ Página institucional da Empresa
 
 Vídeo:[https://www.loom.com/share/671fc7b50ba347dfa4bb08da385d677f?sid=cd6f0add-2512-45d6-a465-b4f2953e5763](https://www.loom.com/share/671fc7b50ba347dfa4bb08da385d677f?sid=cd6f0add-2512-45d6-a465-b4f2953e5763)
 
-**Análise de Riscos** 
+## **Análise de Riscos** 
 
 A aplicação não apresentou bugs de segurança, desempenho ou que possam causar impactos. Mas os riscos podem surgir devido a fatores externos, limitações técnicas ou mudanças no ambiente. 
 
